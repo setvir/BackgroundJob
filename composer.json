@@ -1,0 +1,18 @@
+{
+    "name": "setvir/background-job",
+    "description": "Custom system to execute PHP classes as background jobs",
+    "type": "laravel-package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Setvir\\BackgroundJob\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lionel Coombes",
+            "email": "it@rustenburger.co.za"
+        }
+    ],
+    "require": {}
+}
